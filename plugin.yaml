@@ -1,0 +1,6 @@
+plugin:
+    name: 'notonpaper.octobercmsnoptheme::lang.plugin.name'
+    description: 'notonpaper.octobercmsnoptheme::lang.plugin.description'
+    author: 'Not On Paper'
+    icon: oc-icon-code
+    homepage: ''
