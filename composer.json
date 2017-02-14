@@ -1,0 +1,17 @@
+{
+    "name": "notonpaper/octoberbackendtheme",
+    "description": "Backend Theme for Not On Paper",
+    "type": "october-plugin",
+    "authors": [
+        {
+            "name": "Lex Lemmens",
+            "email": "lex@notonpaper.nl"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "NotOnPaper\\OctobercmsNopTheme\\": ""
+        }
+    }
+}
