@@ -2,6 +2,7 @@
     "name": "notonpaper/octoberbackendtheme",
     "description": "Backend Theme for Not On Paper",
     "type": "october-plugin",
+    "license": "MIT",
     "authors": [
         {
             "name": "Lex Lemmens",
